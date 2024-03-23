@@ -1,6 +1,6 @@
 # Portfolio 
 
-[View Project](https://mk-mojib.github.io/COMPWALLAH_April-2024/)
+[View Project](https://mk-mojib.github.io/my-portfolio/)
 
 ## Description
        My Portfolio is a personal website showcasing my skills, education, projects, achievements, and contact information. Built with React.js, it provides a sleek and interactive way for visitors to learn more about me and my work.
